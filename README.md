@@ -1,2 +1,2 @@
 # Repository for final project
-emotion-dectection-project
+emotion-detection-project
